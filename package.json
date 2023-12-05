@@ -1,0 +1,22 @@
+{
+  "name": "instadeep-interview-tasks",
+  "version": "1.0.0",
+  "description": "## Task 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bettaibi/instadeep-interview-tasks.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bettaibi/instadeep-interview-tasks/issues"
+  },
+  "homepage": "https://github.com/bettaibi/instadeep-interview-tasks#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
