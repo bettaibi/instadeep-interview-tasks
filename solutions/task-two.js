@@ -1,7 +1,13 @@
 // Q1: Implement the createStore API
 
-function createStore() {
+function createStore(initialState, reducer) {
   // TODO Impl
+
+  const getState = () => {};
+
+  const dispatch = (action) => {};
+
+  const subscribe = () => {};
 
   return {
     subscribe,
