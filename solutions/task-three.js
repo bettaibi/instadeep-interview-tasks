@@ -1,12 +1,12 @@
+const React = (() => {
+  function useState() {}
 
-function useState(){
-  // TODO Impl
+  function useEffect() {}
 
-}
+  return {
+    useState,
+    useEffect,
+  };
+})();
 
-function useEffect(){
-  // TODO Impl
-
-}
-
-
+function TestComponent() {}
